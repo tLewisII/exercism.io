@@ -21,3 +21,20 @@ scripts/boot.sh
 .yardoc
 _yardoc
 doc/
+
+# Xcode junk
+build/*
+*.pbxuser
+*.mode2v3
+*.mode1v3
+*.xcworkspace
+xcuserdata
+
+# OSX Junk
+.DS_Store
+profile
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
